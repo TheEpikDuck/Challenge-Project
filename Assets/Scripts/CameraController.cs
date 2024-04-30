@@ -1,4 +1,5 @@
 //camera controller for the minigame in world 1-2, i wanted to use the code in sidescrolling but it would've messed up the other levels
+//used a tutorial for Lerp
 
 using System.Collections;
 using System.Collections.Generic;
