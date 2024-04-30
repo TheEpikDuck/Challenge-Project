@@ -1,4 +1,6 @@
 //player movement for the minigame during 1-2, you get to control the charcter this time instead of the charcter going foward only
+//used tutorial for player flip 
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
