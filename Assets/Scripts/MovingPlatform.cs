@@ -1,4 +1,5 @@
 //used for the moving platforms during the minigame in 1-2
+//used a tutiral for lerp
 
 using System.Collections;
 using System.Collections.Generic;
