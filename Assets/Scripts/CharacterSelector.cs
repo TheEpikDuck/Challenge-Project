@@ -1,4 +1,5 @@
 //this currently doesn't work but it's supposed to be the skin selector function
+//used a tutorial for this
 
 using System.Collections;
 using System.Collections.Generic;
