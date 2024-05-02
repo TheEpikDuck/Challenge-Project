@@ -1,5 +1,5 @@
 //camera controller for the minigame in world 1-2, i wanted to use the code in sidescrolling but it would've messed up the other levels
-//used a tutorial for Lerp
+//I think i could've just used lateupdate for all of this tho... :/
 
 using System.Collections;
 using System.Collections.Generic;
